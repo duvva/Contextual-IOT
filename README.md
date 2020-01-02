@@ -6,7 +6,7 @@ Circuit Diagram
 ![Alt text](/doorbell-button-wiring.png)
 
 
-The Cloud Vision API gives you contextual data on captured images.
+The Cloud Vision API gives contextual data on captured images.
 Output
 ![Alt text](/op1.PNG)
 
